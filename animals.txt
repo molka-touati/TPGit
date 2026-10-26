@@ -2,4 +2,4 @@ lion
 chien 
 chat
 tigre
-oiseaux
+cheval
